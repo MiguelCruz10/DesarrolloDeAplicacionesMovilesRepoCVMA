@@ -1,3 +1,5 @@
+package com.gmail.cruz.villa.miguel.angel.hola_mundo_compose
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent

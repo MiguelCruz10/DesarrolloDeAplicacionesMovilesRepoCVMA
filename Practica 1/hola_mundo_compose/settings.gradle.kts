@@ -24,4 +24,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "hola_mundo_compose"
 include(":app")
- 
