@@ -69,7 +69,7 @@ Para esta práctica se tomó como base el repositorio de ejemplo proporcionado: 
 
 ### Evidencias de la modificación del código
 * *Código ApiClient:*
-  ![ApiClient](screenshots/n_codigo_ApiCLient.png)
+  ![ApiClient](screenshots/n_codigo_ApiClient.png)
 * *Código ApiService:*  
   ![ApiService](screenshots/n_codigo_ApiService.png)
 * *Código modificado del app.py*  
