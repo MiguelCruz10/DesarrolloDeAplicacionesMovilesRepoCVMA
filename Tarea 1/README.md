@@ -93,6 +93,10 @@ El modelo (LLM) descubre este catálogo en tiempo de ejecución y decide, de man
 **Intento de acceso fuera del directorio autorizado bloqueado:**
 ![Prueba de seguridad](img/06-seguridad.png)
 
+### Servidor Propio (Puntos Extra)
+**Ejecución de herramienta personalizada de análisis deportivo:**
+![Servidor Propio](img/07-servidor-propio.png)
+
 ## Conclusiones Personales
 *(Pendiente)*
 
