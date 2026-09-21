@@ -10,12 +10,13 @@ Esta actividad explora la evolución de los Modelos de Lenguaje Grande (LLMs), p
 
 ## Índice de Investigación (`docs/`)
 La investigación detallada paso a paso se encuentra en los siguientes archivos dentro del directorio `docs/`:
-1. [`1_evolucion_modelos.md`](docs/1_evolucion_modelos.md)
-2. [`2_problema_aislamiento.md`](docs/2_problema_aislamiento.md)
-3. [`4_arquitectura_mcp.md`](docs/4_arquitectura_mcp.md)
-4. [`5_servidor_fs.md`](docs/5_servidor_fs.md)
-5. [`6_seguridad.md`](docs/6_seguridad.md)
-6. [`7_casos_de_uso.md`](docs/7_casos_de_uso.md)
+1. [`1_evolucion_modelos.md`](docs/1_Evolucion_Modelos.md)
+2. [`2_problema_aislamiento.md`](docs/2_El_Problema_Aislamiento.md)
+3. [`4_arquitectura_mcp.md`](docs/4_Arquitectura_MCP.md)
+4. [`5_servidor_fs.md`](docs/5_Servidor_Archivos.md)
+5. [`6_seguridad.md`](docs/6_Seguridad.md)
+6. [`7_casos_de_uso.md`](docs/7_Casos_Uso.md)
+7. [`8_Servidor_Propio.md`](docs/8_Servidor_Propio.md)
 
 *Nota: El Punto 3 (MCP frente a una API) se desarrolla a continuación como elemento central de este documento.*
 
