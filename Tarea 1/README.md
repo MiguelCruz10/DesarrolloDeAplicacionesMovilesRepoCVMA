@@ -97,9 +97,16 @@ El modelo (LLM) descubre este catálogo en tiempo de ejecución y decide, de man
 **Ejecución de herramienta personalizada de análisis deportivo:**
 ![Servidor Propio](img/07-servidor-propio.png)
 
-## Conclusiones Personales
-*(Pendiente)*
+### Conclusiones Personales
+Esta actividad me ayudó a entender cómo está cambiando la forma en que programamos. Es muy interesante ver que las inteligencias artificiales ya no son solo un chat aislado en el navegador donde copiamos y pegamos código, sino que ahora pueden conectarse directamente a nuestros proyectos y trabajar con nuestros archivos locales.
 
-## Referencias
-* Documentación Oficial de MCP. Especificación versión `2024-11-05` (u otra reciente). Recuperada de la documentación oficial.
-*(Se agregarán más fuentes)*
+La parte de investigación fue fundamental para comprender de dónde vienen estos avances; me quedó claro que la capacidad de la IA para "razonar" no es magia, sino el resultado de mucho poder de cómputo, y que MCP no reemplaza a las APIs, sino que funciona como un catálogo para que el modelo descubra por sí mismo qué herramientas puede usar.
+
+Por último, hacer el servidor propio de apuestas me demostró lo fácil y útil que es adaptar esta tecnología a lo que necesitamos. Nos permite conectar la IA con nuestros propios programas de Python, dejando que nuestro código haga las matemáticas exactas y evitando que el modelo cometa errores al inventar números o resultados.
+
+### Referencias
+* Anthropic. (2024). *Model Context Protocol Specification* (Versión 2024-11-05). Model Context Protocol. https://spec.modelcontextprotocol.io
+* Anthropic. (2024). *Model Context Protocol Python SDK*. GitHub. https://github.com/modelcontextprotocol/python-sdk
+* Cursor. (2024). *Cursor: The AI-first Code Editor*. Anysphere. https://www.cursor.com/
+* OWASP Foundation. (2023). *OWASP Top 10 for Large Language Model Applications* (Versión 1.1). Open Worldwide Application Security Project. https://owasp.org/www-project-top-10-for-large-language-model-applications/
+* Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., & Polosukhin, I. (2017). *Attention is all you need*. Advances in Neural Information Processing Systems, 30.
