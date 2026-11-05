@@ -1,0 +1,19 @@
+package ovh.gabrielhuav.juego
+
+import platform.Foundation.NSDateFormatter
+import platform.Foundation.NSDate
+import platform.Foundation.dateWithTimeIntervalSince1970
+import platform.UIKit.UIDevice
+
+actual fun plataforma(): String =
+    "${UIDevice.currentDevice.systemName()} ${UIDevice.currentDevice.systemVersion}"
+
+actual fun currentTimeMillis(): Long =
+    (NSDate().timeIntervalSince1970 * 1000).toLong()
+
+actual fun formatEpoch(epochMillis: Long): String {
+    val date = NSDate.dateWithTimeIntervalSince1970(epochMillis / 1000.0)
+    val formatter = NSDateFormatter()
+    formatter.dateFormat = "dd/MM/yyyy HH:mm"
+    return formatter.stringFromDate(date)
+}
